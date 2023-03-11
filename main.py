@@ -9,6 +9,7 @@ vade = 36
 ekVade = 6
 vade2 = "36"
 
+
 # float decimal double
 aylikOdeme = 200.50
 
