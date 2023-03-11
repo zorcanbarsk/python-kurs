@@ -107,5 +107,5 @@ else:
 
 print("burasi if blogunun disi")
 
-
+print("promyfiteroooooooolllmydick")
 
